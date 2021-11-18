@@ -45,6 +45,8 @@ Materials for Machine Translation Labs, Unibuc
 
 - [yasa](http://rali.iro.umontreal.ca/rali/?q=en/yasa) - Yet Another Sentence Aligner.
 
-- [simalign](https://github.com/cisnlp/simalign) - Similarity Based Word Aligner
+- [simalign](https://github.com/cisnlp/simalign) - Similarity Based Word Aligner - does not require parallel training data.
+
+
 
 
