@@ -33,6 +33,8 @@ Materials for Machine Translation Labs, Unibuc
 
 - [Bleualign](https://github.com/rsennrich/Bleualign) - A machine translation based sentence alignment tool for parallel text.
 
+- [Efmaral](https://github.com/robertostling/efmaral) - Efficient Markov Chain word alignment
+
 - [hunalign](https://github.com/danielvarga/hunalign) - A tool that aligns bilingual text on the sentence level.
 
 - [Getting started with Sentence Alignment](https://textprocessing.org/getting-started-with-sentence-alignment) - A list of sentence alignment tools.
