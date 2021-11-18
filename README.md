@@ -27,4 +27,24 @@ Materials for Machine Translation Labs, Unibuc
 
 - Upload assignment until November 18th: https://forms.gle/RQqEwmEmpmp22gf99
 
+**Lab 4** - Alignment
+
+- [Bitextor](https://github.com/bitextor/bitextor) - A tool to automatically harvest bitexts from multilingual websites. 
+
+- [Bleualign](https://github.com/rsennrich/Bleualign) - A machine translation based sentence alignment tool for parallel text.
+
+- [hunalign](http://mokk.bme.hu/resources/hunalign/) - A tool that aligns bilingual text on the sentence level.
+
+- [Getting started with Sentence Alignment](https://textprocessing.org/getting-started-with-sentence-alignment) - A list of sentence alignment tools.
+
+- [LF Aligner](https://sourceforge.net/projects/aligner/) - A tool to create translation memories from texts and their translations. It relies on Hunalign for automatic sentence pairing.
+
+- [Web Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/) - Online parallel texts aligner and format converter.
+
+- [yalign](https://github.com/machinalis/yalign) - A sentence aligner for comparable corpora.
+
+- [yasa](http://rali.iro.umontreal.ca/rali/?q=en/yasa) - Yet Another Sentence Aligner.
+
+- [simalign](https://github.com/cisnlp/simalign) - Similarity Based Word Aligner
+
 
