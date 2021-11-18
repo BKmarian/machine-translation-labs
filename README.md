@@ -25,7 +25,7 @@ Materials for Machine Translation Labs, Unibuc
 
 - Assignment: Download a different dataset to experiment with translations. Experiment with training on a larger dataset, or using more epochs.
 
-- Upload assignment until November 18th: https://forms.gle/RQqEwmEmpmp22gf99
+- Upload assignment until December 2nd: https://forms.gle/RQqEwmEmpmp22gf99
 
 **Lab 4** - Alignment
 
