@@ -49,10 +49,10 @@ Materials for Machine Translation Labs, Unibuc
 
 - [simalign](https://github.com/cisnlp/simalign) - Similarity Based Word Aligner - does not require parallel training data.
 
-**Lab 5** 
-- [IBM model 1 for word alignment](https://github.com/bucuram/machine-translation-labs/blob/main/Lab5_MT.ipynb)
+~~**Lab 5** ~~
+~~- [IBM model 1 for word alignment](https://github.com/bucuram/machine-translation-labs/blob/main/Lab5_MT.ipynb)~~
 
-- Upload the assignment until December 16th: https://forms.gle/1Q45azjwpKEV6jqz7
+~~- Upload the assignment until December 16th: https://forms.gle/1Q45azjwpKEV6jqz7~~
 
 
 
