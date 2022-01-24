@@ -5,13 +5,9 @@ Materials for Machine Translation Labs, Unibuc
 
 - [Notebook](https://github.com/bucuram/machine-translation-labs/blob/main/Lab1_MT.ipynb)
 
-- Upload assignment until October 21th: https://forms.gle/T2f2keKN6SWyw1J5A
-
 **Lab 2**
 
 - [Notebook](https://github.com/bucuram/machine-translation-labs/blob/main/Lab2_MT.ipynb)
-
-- Upload assignment until November 4th: https://forms.gle/A8rHbckQcfZfRMJMA
 
 **Lab 3**
 
@@ -24,8 +20,6 @@ Materials for Machine Translation Labs, Unibuc
 - [NMT seq2seq with attention - PyTorch](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
 - Assignment: Download a different dataset to experiment with translations. Experiment with training on a larger dataset, or using more epochs.
-
-- Upload assignment until December 2nd: https://forms.gle/RQqEwmEmpmp22gf99
 
 **Lab 4** - Alignment
 
@@ -52,8 +46,6 @@ Materials for Machine Translation Labs, Unibuc
 **Lab 5**
 
 - [IBM model 1 for word alignment](https://github.com/bucuram/machine-translation-labs/blob/main/Lab5_MT.ipynb)
-
-- Upload the assignment until December 16th: https://forms.gle/1Q45azjwpKEV6jqz7
 
 
 
